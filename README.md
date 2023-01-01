@@ -22,4 +22,4 @@ To customize the colors used in the app, you can modify the following variables 
 --light-color: the background color for the light theme
 --dark-color: the background color for the dark theme
 Read this Blog to go step-by-step:
-[How to Utilize Dark Mode in React Application?](https://scientyficworld.org/how-to-utilize-dark-mode-in-react-application/){:rel="noreferrer noopener dofollow"}
+<a href="https://scientyficworld.org/how-to-utilize-dark-mode-in-react-application/" rel= "noreferrer noopener dofollow">How to Utilize Dark Mode in React Application?</a>
